@@ -367,7 +367,7 @@
         "PackageName": "Wedding Feast",
         "Price_INR": "50000",
         "Package_Details": "Multi-cuisine buffet with desserts and beverages",
-        "Image": ""
+        "Image": "https://i.pinimg.com/736x/a6/a4/b8/a6a4b8a29bc0d812e91d87b4c46001b0.jpg"
       },
       {
         "Id": "42",
@@ -376,7 +376,7 @@
         "PackageName": "Corporate Lunch",
         "Price_INR": "30000",
         "Package_Details": "Veg and non-veg options, includes drinks",
-        "Image": ""
+        "Image": "https://i.pinimg.com/736x/dd/2c/9b/dd2c9b407e796bb1f9fbcbe30797fd1a.jpg"
       },
       {
         "Id": "43",
@@ -385,7 +385,7 @@
         "PackageName": "Birthday Party",
         "Price_INR": "20000",
         "Package_Details": "Snacks, soft drinks, and a cake",
-        "Image": "https://example.com/images/caterer43.jpg"
+        "Image": "https://i.pinimg.com/736x/44/7a/5c/447a5c9b2e440863e398789805a96c70.jpg"
       },
       {
         "Id": "44",
@@ -394,7 +394,7 @@
         "PackageName": "Engagement Dinner",
         "Price_INR": "35000",
         "Package_Details": "Traditional and continental options",
-        "Image": "https://example.com/images/caterer44.jpg"
+        "Image": "https://static.vecteezy.com/system/resources/thumbnails/036/729/653/small/ai-generated-banquet-catering-in-san-diego-county-mecca-food-services-free-photo.jpg"
       },
       {
         "Id": "45",
@@ -403,7 +403,7 @@
         "PackageName": "Anniversary Package",
         "Price_INR": "25000",
         "Package_Details": "South Indian dishes with live counters",
-        "Image": "https://example.com/images/caterer45.jpg"
+        "Image": "https://cookifi.com/blog/wp-content/uploads/2017/04/87095891.jpg"
       },
       {
         "Id": "46",
@@ -412,7 +412,7 @@
         "PackageName": "Festive Catering",
         "Price_INR": "28000",
         "Package_Details": "Special menu for Diwali and Holi",
-        "Image": "https://example.com/images/caterer46.jpg"
+        "Image": "https://radhafoodservices.com/wp-content/uploads/2025/02/4c400acd3e25bf2ed939724529bfe55e.jpg"
       },
       {
         "Id": "47",
@@ -421,7 +421,7 @@
         "PackageName": "Sangeet Snacks",
         "Price_INR": "18000",
         "Package_Details": "Light snacks and refreshments",
-        "Image": "https://example.com/images/caterer47.jpg"
+        "Image": "https://creebhills.com/wp-content/uploads/2023/10/pexels-photo-2291367.jpeg"
       },
       {
         "Id": "48",
@@ -430,7 +430,7 @@
         "PackageName": "Reception Feast",
         "Price_INR": "45000",
         "Package_Details": "Full-course meals with desserts",
-        "Image": "https://example.com/images/caterer48.jpg"
+        "Image": "https://content.jdmagicbox.com/v2/comp/mumbai/w2/022p1227596164u3b3w2/catalogue/giriraj-caterers-mumbai-g4sflux5do.jpg"
       },
       {
         "Id": "49",
@@ -439,7 +439,7 @@
         "PackageName": "Haldi Function",
         "Price_INR": "15000",
         "Package_Details": "Traditional snacks and drinks",
-        "Image": "https://example.com/images/caterer49.jpg"
+        "Image": "https://aaswadcaterers.com/wp-content/uploads/2021/07/pure-veg-indian-catering-scaled.jpg"
       },
       {
         "Id": "50",
@@ -448,7 +448,7 @@
         "PackageName": "Bridal Shower",
         "Price_INR": "22000",
         "Package_Details": "Mini buffet with drinks and desserts",
-        "Image": "https://example.com/images/caterer50.jpg"
+        "Image": "https://img.freepik.com/premium-photo/indian-cuisine-buffet-table-ai-generated_113255-53747.jpg"
       }
     ]
   ]
