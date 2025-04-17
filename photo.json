@@ -1,0 +1,502 @@
+[
+  {
+    "Id": 1,
+    "Name": "Sandeep Nair",
+    "Location": "Mumbai",
+    "PhoneNumber": 9810000001,
+    "PackageName": "Basic",
+    "PriceINR": 10000,
+    "PackageDetails": "2-hour session, 50 edited photos",
+    "image": "https://i.pinimg.com/736x/43/50/81/43508181546e0c14abe63cc31222cc21.jpg"
+  },
+  {
+    "Id": 2,
+    "Name": "Rajesh Kumar",
+    "Location": "Delhi",
+    "PhoneNumber": 9810000002,
+    "PackageName": "Premium",
+    "PriceINR": 25000,
+    "PackageDetails": "5-hour session, 100 edited photos, album",
+    "image": "https://i.pinimg.com/736x/f1/47/07/f14707b57d60d0dc6e5113bbab183bf1.jpg"
+  },
+  {
+    "Id": 3,
+    "Name": "Bhavna Shah",
+    "Location": "Bangalore",
+    "PhoneNumber": 9810000003,
+    "PackageName": "Wedding",
+    "PriceINR": 50000,
+    "PackageDetails": "Full day coverage, 200 edited photos, video highlights",
+    "image": "https://i.pinimg.com/736x/6a/85/7c/6a857ccb1f193afae7c33cace0dff55b.jpg"
+  },
+  {
+    "Id": 4,
+    "Name": "Varun Bajaj",
+    "Location": "Kolkata",
+    "PhoneNumber": 9810000004,
+    "PackageName": "Portrait",
+    "PriceINR": 15000,
+    "PackageDetails": "3-hour session, 70 edited photos, makeup artist",
+    "image": "https://i.pinimg.com/736x/60/fc/bd/60fcbd55c0d37e117fe5393315681816.jpg"
+  },
+  {
+    "Id": 5,
+    "Name": "Kavita Rathi",
+    "Location": "Chennai",
+    "PhoneNumber": 9810000005,
+    "PackageName": "Event",
+    "PriceINR": 30000,
+    "PackageDetails": "6-hour coverage, 150 edited photos, online gallery",
+    "image": "https://i.pinimg.com/736x/c2/21/cb/c221cb4de5c19a217175da80dce310ac.jpg"
+  },
+  {
+    "Id": 6,
+    "Name": "Arun Iyer",
+    "Location": "Pune",
+    "PhoneNumber": 9810000006,
+    "PackageName": "Corporate",
+    "Price_INR": 20000,
+    "Package_Details": "4-hour session, 80 edited photos, headshots included",
+    "image": "https://i.pinimg.com/736x/86/77/2e/86772e991b9fb12c33ba52572cdecedd.jpg"
+  },
+  {
+    "Id": 7,
+    "Name": "Tarun Grover",
+    "Location": "Mumbai",
+    "PhoneNumber": 9810000007,
+    "PackageName": "Basic",
+    "Price_INR": 10000,
+    "Package_Details": "2-hour session, 50 edited photos",
+    "image": "https://i.pinimg.com/736x/a9/e2/5a/a9e25a424803f446802087dade958be9.jpg"
+  },
+  {
+    "Id": 8,
+    "Name": "Amit Sharma",
+    "Location": "Delhi",
+    "PhoneNumber": 9810000008,
+    "PackageName": "Premium",
+    "Price_INR": 25000,
+    "Package_Details": "5-hour session, 100 edited photos, album",
+    "images": "https://i.pinimg.com/736x/5d/11/65/5d11654329eaa787c4569ab1ab236d3e.jpg"
+  },
+  {
+    "Id": 9,
+    "Name": "Tanvi Aggarwal",
+    "Location": "Bangalore",
+    "PhoneNumber": 9810000009,
+    "PackageName": "Wedding",
+    "Price_INR": 50000,
+    "Package_Details": "Full day coverage, 200 edited photos, video highlights",
+    "images": "https://i.pinimg.com/736x/81/35/0f/81350f32e2a37fd7204fb9ee97040e10.jpg"
+  },
+  {
+    "Id": 10,
+    "Name": "Uday Joshi",
+    "Location": "Kolkata",
+    "PhoneNumber": 9810000010,
+    "PackageName": "Portrait",
+    "Price_INR": 15000,
+    "Package_Details": "3-hour session, 70 edited photos, makeup artist",
+    "images": "https://i.pinimg.com/736x/32/bf/0b/32bf0b0a78741f4a5237fd7c2f74a328.jpg"
+  },
+  {
+    "Id": 11,
+    "Name": "Divya Kapoor",
+    "Location": "Chennai",
+    "PhoneNumber": 9810000011,
+    "PackageName": "Event",
+    "Price_INR": 30000,
+    "Package_Details": "6-hour coverage, 150 edited photos, online gallery",
+    "images": "https://i.pinimg.com/736x/ed/2c/5a/ed2c5a9f2a7490036abcf1224a4ca372.jpg"
+  },
+  {
+    "Id": 12,
+    "Name": "Yashwant Kulkarni",
+    "Location": "Pune",
+    "PhoneNumber": 9810000012,
+    "PackageName": "Corporate",
+    "Price_INR": 20000,
+    "Package_Details": "4-hour session, 80 edited photos, headshots included",
+    "images": "https://i.pinimg.com/736x/6c/1c/d8/6c1cd8c713c439a674071dc45b12fcc5.jpg"
+  },
+  {
+    "Id": 13,
+    "Name": "Ramesh Swamy",
+    "Location": "Mumbai",
+    "PhoneNumber": 9810000013,
+    "PackageName": "Basic",
+    "Price_INR": 10000,
+    "Package_Details": "2-hour session, 50 edited photos",
+    "images": "https://i.pinimg.com/736x/16/b6/5a/16b65af9ca7b7f441123a4007fd84e26.jpg"
+  },
+  {
+    "Id": 14,
+    "Name": "Vikram Patel",
+    "Location": "Delhi",
+    "PhoneNumber": 9810000014,
+    "PackageName": "Premium",
+    "Price_INR": 25000,
+    "Package_Details": "5-hour session, 100 edited photos, album",
+    "images": "https://i.pinimg.com/736x/35/a5/1e/35a51e1b62216a6c13c056dca6945876.jpg"
+  },
+  {
+    "Id": 15,
+    "Name": "Rekha Ghosh",
+    "Location": "Bangalore",
+    "PhoneNumber": 9810000015,
+    "PackageName": "Wedding",
+    "Price_INR": 50000,
+    "Package_Details": "Full day coverage, 200 edited photos, video highlights",
+    "images": "https://i.pinimg.com/736x/b8/ad/20/b8ad20c83a08a7140c2581354e2aef94.jpg"
+  },
+  {
+    "Id": 16,
+    "Name": "Roshni Jindal",
+    "Location": "Kolkata",
+    "PhoneNumber": 9810000016,
+    "PackageName": "Portrait",
+    "Price_INR": 15000,
+    "Package_Details": "3-hour session, 70 edited photos, makeup artist",
+    "images": "https://i.pinimg.com/736x/21/42/d1/2142d1ea729fd664300a9c9904a2e864.jpg"
+  },
+  {
+    "Id": 17,
+    "Name": "Rahul Vaidya",
+    "Location": "Chennai",
+    "PhoneNumber": 9810000017,
+    "PackageName": "Event",
+    "Price_INR": 30000,
+    "Package_Details": "6-hour coverage, 150 edited photos, online gallery",
+    "images": "https://i.pinimg.com/736x/10/3b/24/103b24adfd96bb241dd8e973bf03d772.jpg"
+  },
+  {
+    "Id": 18,
+    "Name": "Pallavi Naik",
+    "Location": "Pune",
+    "PhoneNumber": 9810000018,
+    "PackageName": "Corporate",
+    "Price_INR": 20000,
+    "Package_Details": "4-hour session, 80 edited photos, headshots included",
+    "images": "https://i.pinimg.com/736x/2c/2c/23/2c2c23997a9c817985837ca70c16791f.jpg"
+  },
+  {
+    "Id": 19,
+    "Name": "Pooja Reddy",
+    "Location": "Mumbai",
+    "PhoneNumber": 9810000019,
+    "PackageName": "Basic",
+    "Price_INR": 10000,
+    "Package_Details": "2-hour session, 50 edited photos",
+    "images": "https://i.pinimg.com/736x/24/2e/d9/242ed9c7c08c21be1b50c62034016fc3.jpg"
+  },
+  {
+    "Id": 20,
+    "Name": "Harish Trivedi",
+    "Location": "Delhi",
+    "PhoneNumber": 9810000020,
+    "PackageName": "Premium",
+    "Price_INR": 25000,
+    "Package_Details": "5-hour session, 100 edited photos, album",
+    "images": "https://i.pinimg.com/736x/52/69/d9/5269d9506dc5d033b29b2da0d129f90f.jpg"
+  },
+  {
+    "Id": 21,
+    "Name": "Manoj Chauhan",
+    "Location": "Bangalore",
+    "PhoneNumber": 9810000021,
+    "PackageName": "Wedding",
+    "Price_INR": 50000,
+    "Package_Details": "Full day coverage, 200 edited photos, video highlights",
+    "images": "https://i.pinimg.com/736x/a8/08/59/a80859beb8c2039311d46f06048e4a66.jpg"
+  },
+  {
+    "Id": 22,
+    "Name": "Akash Sethi",
+    "Location": "Kolkata",
+    "PhoneNumber": 9810000022,
+    "PackageName": "Portrait",
+    "Price_INR": 15000,
+    "Package_Details": "3-hour session, 70 edited photos, makeup artist",
+    "images": "https://i.pinimg.com/736x/f0/50/a2/f050a2fd066eb7f198271e7531f41b95.jpg"
+  },
+  {
+    "Id": 23,
+    "Name": "Gaurav Khanna",
+    "Location": "Chennai",
+    "PhoneNumber": 9810000023,
+    "PackageName": "Event",
+    "Price_INR": 30000,
+    "Package_Details": "6-hour coverage, 150 edited photos, online gallery",
+    "images": "https://i.pinimg.com/736x/a0/c4/5a/a0c45aecd971095ef05a10091b9b012e.jpg"
+  },
+  {
+    "Id": 24,
+    "Name": "Sachin Desai",
+    "Location": "Pune",
+    "PhoneNumber": 9810000024,
+    "PackageName": "Corporate",
+    "Price_INR": 20000,
+    "Package_Details": "4-hour session, 80 edited photos, headshots included",
+    "images": "https://i.pinimg.com/736x/81/f8/59/81f8591cf47e6735e225369e811ef1b6.jpg"
+  },
+  {
+    "Id": 25,
+    "Name": "Mohit Bansal",
+    "Location": "Mumbai",
+    "PhoneNumber": 9810000025,
+    "PackageName": "Basic",
+    "Price_INR": 10000,
+    "Package_Details": "2-hour session, 50 edited photos",
+    "images": "https://i.pinimg.com/736x/d5/cd/1f/d5cd1fc1cafbdff243cf85d4eb79f61f.jpg"
+  },
+  {
+    "Id": 26,
+    "Name": "Deepak Chawla",
+    "Location": "Delhi",
+    "PhoneNumber": 9810000026,
+    "PackageName": "Premium",
+    "Price_INR": 25000,
+    "Package_Details": "5-hour session, 100 edited photos, album",
+    "images": "https://i.pinimg.com/736x/52/57/46/525746cdb38e9621ab64c6a628c95b7c.jpg"
+  },
+  {
+    "Id": 27,
+    "Name": "Simran Malhotra",
+    "Location": "Bangalore",
+    "PhoneNumber": 9810000027,
+    "PackageName": "Wedding",
+    "Price_INR": 50000,
+    "Package_Details": "Full day coverage, 200 edited photos, video highlights",
+    "images": "https://i.pinimg.com/736x/79/28/4c/79284cc6a28257a8e89e9c0c419a3c02.jpg"
+  },
+  {
+    "Id": 28,
+    "Name": "Nitin Deshmukh",
+    "Location": "Kolkata",
+    "PhoneNumber": 9810000028,
+    "PackageName": "Portrait",
+    "Price_INR": 15000,
+    "Package_Details": "3-hour session, 70 edited photos, makeup artist",
+    "images": "https://i.pinimg.com/736x/a5/0e/9d/a50e9db92f5bf9ac285e0c892056d5bf.jpg"
+  },
+  {
+    "Id": 29,
+    "Name": "Neha Verma",
+    "Location": "Chennai",
+    "PhoneNumber": 9810000029,
+    "PackageName": "Event",
+    "Price_INR": 30000,
+    "Package_Details": "6-hour coverage, 150 edited photos, online gallery",
+    "images": "https://i.pinimg.com/736x/ca/95/d5/ca95d511aa49b80272a9388e4b69a503.jpg"
+  },
+  {
+    "Id": 30,
+    "Name": "Ritu Chandra",
+    "Location": "Pune",
+    "PhoneNumber": 9810000030,
+    "PackageName": "Corporate",
+    "Price_INR": 20000,
+    "Package_Details": "4-hour session, 80 edited photos, headshots included",
+    "images": "https://i.pinimg.com/736x/38/4b/9b/384b9bf0c1cbbdf58ae2d46cd94888a8.jpg"
+  },
+  {
+    "Id": 31,
+    "Name": "Sunita Yadav",
+    "Location": "Mumbai",
+    "PhoneNumber": 9810000031,
+    "PackageName": "Basic",
+    "Price_INR": 10000,
+    "Package_Details": "2-hour session, 50 edited photos",
+    "images": "https://i.pinimg.com/736x/f7/28/4a/f7284a0c4d990504f9a2b04d2b0fec03.jpg"
+  },
+  {
+    "Id": 32,
+    "Name": "Meera Pillai",
+    "Location": "Delhi",
+    "PhoneNumber": 9810000032,
+    "PackageName": "Premium",
+    "Price_INR": 25000,
+    "Package_Details": "5-hour session, 100 edited photos, album",
+    "images": "https://i.pinimg.com/736x/31/bc/9a/31bc9a9949d0f4ade2401dc863014c10.jpg"
+  },
+  {
+    "Id": 33,
+    "Name": "Sohail Sheikh",
+    "Location": "Bangalore",
+    "PhoneNumber": 9810000033,
+    "PackageName": "Wedding",
+    "Price_INR": 50000,
+    "Package_Details": "Full day coverage, 200 edited photos, video highlights",
+    "images": "https://i.pinimg.com/736x/51/08/eb/5108ebafaad1805832c180e270061aa8.jpg"
+  },
+  {
+    "Id": 34,
+    "Name": "Anand Menon",
+    "Location": "Kolkata",
+    "PhoneNumber": 9810000034,
+    "PackageName": "Portrait",
+    "Price_INR": 15000,
+    "Package_Details": "3-hour session, 70 edited photos, makeup artist",
+    "images": "https://i.pinimg.com/736x/2a/95/81/2a958147cd46f8a931b5d33251ab5a4c.jpg"
+  },
+  {
+    "Id": 35,
+    "Name": "Sonia Bhatia",
+    "Location": "Chennai",
+    "PhoneNumber": 9810000035,
+    "PackageName": "Event",
+    "Price_INR": 30000,
+    "Package_Details": "6-hour coverage, 150 edited photos, online gallery",
+    "images": "https://i.pinimg.com/736x/72/67/90/726790816908700e5271413d5639ec69.jpg"
+  },
+  {
+    "Id": 36,
+    "Name": "Kamaljeet Singh",
+    "Location": "Pune",
+    "PhoneNumber": 9810000036,
+    "PackageName": "Corporate",
+    "Price_INR": 20000,
+    "Package_Details": "4-hour session, 80 edited photos, headshots included",
+    "images": "https://i.pinimg.com/736x/bb/2f/8d/bb2f8da4ebf0814e0252aa18ca5ddc95.jpg"
+  },
+  {
+    "Id": 37,
+    "Name": "Sarla Thakur",
+    "Location": "Mumbai",
+    "PhoneNumber": 9810000037,
+    "PackageName": "Basic",
+    "Price_INR": 10000,
+    "Package_Details": "2-hour session, 50 edited photos",
+    "images": "https://i.pinimg.com/736x/27/c9/f3/27c9f3bb5350b31db3323970a68e4765.jpg"
+  },
+  {
+    "Id": 38,
+    "Name": "Suman Mishra",
+    "Location": "Delhi",
+    "PhoneNumber": 9810000038,
+    "PackageName": "Premium",
+    "Price_INR": 25000,
+    "Package_Details": "5-hour session, 100 edited photos, album",
+    "images": "https://i.pinimg.com/736x/8f/14/b5/8f14b5d1a01e3a73397fbbdb799665b0.jpg"
+  },
+  {
+    "Id": 39,
+    "Name": "Kiran Rao",
+    "Location": "Bangalore",
+    "PhoneNumber": 9810000039,
+    "PackageName": "Wedding",
+    "Price_INR": 50000,
+    "Package_Details": "Full day coverage, 200 edited photos, video highlights",
+    "images": "https://i.pinimg.com/736x/1b/9d/2d/1b9d2dd7d4e8f2e5e535db8841642335.jpg"
+  },
+  {
+    "Id": 40,
+    "Name": "Lakshmi Narayan",
+    "Location": "Kolkata",
+    "PhoneNumber": 9810000040,
+    "PackageName": "Portrait",
+    "Price_INR": 15000,
+    "Package_Details": "3-hour session, 70 edited photos, makeup artist",
+    "images": "https://i.pinimg.com/736x/60/f9/69/60f969eeaaec1743b9b32fc229b8f2f9.jpg"
+  },
+  {
+    "Id": 41,
+    "Name": "Sneha Luthra",
+    "Location": "Chennai",
+    "PhoneNumber": 9810000041,
+    "PackageName": "Event",
+    "Price_INR": 30000,
+    "Package_Details": "6-hour coverage, 150 edited photos, online gallery",
+    "images": "https://i.pinimg.com/736x/a6/89/32/a689325623b3efdfef811ba589576933.jpg"
+  },
+  {
+    "Id": 42,
+    "Name": "Preeti Saxena",
+    "Location": "Pune",
+    "PhoneNumber": 9810000042,
+    "PackageName": "Corporate",
+    "Price_INR": 20000,
+    "Package_Details": "4-hour session, 80 edited photos, headshots included",
+    "images": "https://i.pinimg.com/736x/5d/d5/52/5dd552742c9a322efd01fc18f8c187b7.jpg"
+  },
+  {
+    "Id": 43,
+    "Name": "Karthik Iyer",
+    "Location": "Mumbai",
+    "PhoneNumber": 9810000043,
+    "PackageName": "Basic",
+    "Price_INR": 10000,
+    "Package_Details": "2-hour session, 50 edited photos",
+    "images": "https://i.pinimg.com/736x/29/77/7e/29777e5386a1c6a05fc450e77694ddb3.jpg"
+  },
+  {
+    "Id": 44,
+    "Name": "Anjali Singh",
+    "Location": "Delhi",
+    "PhoneNumber": 9810000044,
+    "PackageName": "Premium",
+    "Price_INR": 25000,
+    "Package_Details": "5-hour session, 100 edited photos, album",
+    "images": "https://i.pinimg.com/736x/26/3c/fa/263cfa81e15d67cebfcd938c842d1caa.jpg"
+  },
+  {
+    "Id": 45,
+    "Name": "Shreya Dutta",
+    "Location": "Bangalore",
+    "PhoneNumber": 9810000045,
+    "PackageName": "Wedding",
+    "Price_INR": 50000,
+    "Package_Details": "Full day coverage, 200 edited photos, video highlights",
+    "images": "https://i.pinimg.com/736x/95/e4/bc/95e4bc6ab2403a5d7b210fcd02800a88.jpg"
+  },
+  {
+    "Id": 46,
+    "Name": "Vishal Tandon",
+    "Location": "Kolkata",
+    "PhoneNumber": 9810000046,
+    "PackageName": "Portrait",
+    "Price_INR": 15000,
+    "Package_Details": "3-hour session, 70 edited photos, makeup artist",
+    "images": "https://i.pinimg.com/736x/9a/b8/6a/9ab86a351eb955afe88535431589c63c.jpg"
+  },
+  {
+    "Id": 47,
+    "Name": "Rohit Malhotra",
+    "Location": "Chennai",
+    "PhoneNumber": 9810000047,
+    "PackageName": "Event",
+    "Price_INR": 30000,
+    "Package_Details": "6-hour coverage, 150 edited photos, online gallery",
+    "images": "https://i.pinimg.com/736x/17/ac/93/17ac93106c5e94c963351755d0c2abfd.jpg"
+  },
+  {
+    "Id": 48,
+    "Name": "Priya Mehta",
+    "Location": "Pune",
+    "PhoneNumber": 9810000048,
+    "PackageName": "Corporate",
+    "Price_INR": 20000,
+    "Package_Details": "4-hour session, 80 edited photos, headshots included",
+    "images": "https://i.pinimg.com/736x/a9/f6/dd/a9f6dd8fd78a312e9eb191d0683c9fab.jpg"
+  },
+  {
+    "Id": 49,
+    "Name": "Swati Joshi",
+    "Location": "Mumbai",
+    "PhoneNumber": 9810000049,
+    "PackageName": "Basic",
+    "Price_INR": 10000,
+    "Package_Details": "2-hour session, 50 edited photos",
+    "images": "https://i.pinimg.com/736x/9f/b6/7b/9fb67ba9064be86ebba53c3e73bfe35e.jpg"
+  },
+  {
+    "Id": 50,
+    "Name": "Ravi Gupta",
+    "Location": "Delhi",
+    "PhoneNumber": 9810000050,
+    "PackageName": "Premium",
+    "Price_INR": 25000,
+    "Package_Details": "5-hour session, 100 edited photos, album",
+    "images": "https://i.pinimg.com/736x/38/a6/fc/38a6fcb45fe6218f511db10b4974aaf5.jpg"
+  }
+]

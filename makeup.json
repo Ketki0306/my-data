@@ -1,0 +1,402 @@
+[
+  {
+    "ID": "1",
+    "Name": "Aarav Sharma",
+    "Image": "https://i.pinimg.com/736x/b0/ae/ba/b0aeba2c4740806857c188624ade36de.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Kolkata, India",
+    "Details": "Known for elegant and natural bridal makeovers."
+  },
+  {
+    "ID": "2",
+    "Name": "Ishita Verma",
+    "Image": "https://i.pinimg.com/736x/da/a1/1d/daa11dcaf54add2f70376b70b9c3505a.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Salem, India",
+    "Details": "Trained professional with expertise in celebrity makeup."
+  },
+  {
+    "ID": "3",
+    "Name": "Kabir Mehta",
+    "Image": "https://i.pinimg.com/736x/66/b8/5a/66b85afabeddb9d05262cad89dc4f9ac.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Meerut, India",
+    "Details": "Specializes in bridal and traditional Indian makeup."
+  },
+  {
+    "ID": "4",
+    "Name": "Ananya Gupta",
+    "Image": "https://i.pinimg.com/736x/33/42/18/3342188326394c5e9c0e243d8d521179.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Dhanbad, India",
+    "Details": "Provides destination wedding makeup services."
+  },
+  {
+    "ID": "5",
+    "Name": "Rohan Malhotra",
+    "Image": "https://i.pinimg.com/736x/a9/82/42/a9824293c7868e1745d011187131e0df.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Dehradun, India",
+    "Details": "Specializes in bridal and traditional Indian makeup."
+  },
+  {
+    "ID": "6",
+    "Name": "Sneha Bhatia",
+    "Image": "https://i.pinimg.com/736x/68/51/25/685125a33c83731b421ebd2e51bb45ca.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Nashik, India",
+    "Details": "Provides customized makeup services for all occasions."
+  },
+  {
+    "ID": "7",
+    "Name": "Vikram Nair",
+    "Image": "https://i.pinimg.com/736x/c2/38/28/c238289ef0b80755065313eab352528e.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Jodhpur, India",
+    "Details": "Renowned for contemporary and glamorous makeup styles."
+  },
+  {
+    "ID": "8",
+    "Name": "Pooja Iyer",
+    "Image": "https://i.pinimg.com/736x/ce/d4/bb/ced4bb6e4604ccbc109bc50c17471ac8.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Aurangabad, India",
+    "Details": "Uses high-end international makeup brands."
+  },
+  {
+    "ID": "9",
+    "Name": "Arjun Khanna",
+    "Image": "https://i.pinimg.com/736x/40/f3/63/40f36386d5621ecd9f4825b5eba0c16c.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Patna, India",
+    "Details": "Specializes in bridal and traditional Indian makeup."
+  },
+  {
+    "ID": "10",
+    "Name": "Riya Choudhary",
+    "Image": "https://i.pinimg.com/736x/70/e4/7e/70e47e917b30f8261c1d40b03c513f47.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Lucknow, India",
+    "Details": "Known for elegant and natural bridal makeovers."
+  },
+  {
+    "ID": "11",
+    "Name": "Sahil Kapoor",
+    "Image": "https://i.pinimg.com/736x/97/ed/d0/97edd0a71696722ee95a9c56145055f9.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Mumbai, India",
+    "Details": "Award-winning makeup artist with years of experience."
+  },
+  {
+    "ID": "12",
+    "Name": "Neha Dixit",
+    "Image": "https://i.pinimg.com/736x/af/83/ed/af83ed7fc6b6c7b0eae5aceb99ee984e.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Chandigarh, India",
+    "Details": "Offers airbrush makeup for a flawless finish."
+  },
+  {
+    "ID": "13",
+    "Name": "Manav Joshi",
+    "Image": "https://i.pinimg.com/736x/32/c4/9f/32c49f81580450d168b838cdf467ea79.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Noida, India",
+    "Details": "Trained professional with expertise in celebrity makeup."
+  },
+  {
+    "ID": "14",
+    "Name": "Tanya Singh",
+    "Image": "https://i.pinimg.com/736x/67/f9/1e/67f91ee16ac014e188264719fdf09836.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Bhopal, India",
+    "Details": "Uses high-end international makeup brands."
+  },
+  {
+    "ID": "15",
+    "Name": "Harsh Vashisht",
+    "Image": "https://i.pinimg.com/736x/66/eb/c1/66ebc13370abfa79afe4fbf62329babb.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Bhopal, India",
+    "Details": "Known for elegant and natural bridal makeovers."
+  },
+  {
+    "ID": "16",
+    "Name": "Divya Rajput",
+    "Image": "https://i.pinimg.com/736x/b7/86/a1/b786a164c03a25595f1a0f6449187f5b.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Nashik, India",
+    "Details": "Provides customized makeup services for all occasions."
+  },
+  {
+    "ID": "17",
+    "Name": "Amit Tandon",
+    "Image": "https://i.pinimg.com/736x/5c/61/54/5c6154d2245acdfe0452e109a045bb45.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Gwalior, India",
+    "Details": "Offers airbrush makeup for a flawless finish."
+  },
+  {
+    "ID": "18",
+    "Name": "Simran Kaur",
+    "Image": "https://i.pinimg.com/736x/65/e8/cd/65e8cde77eb1cfd6422ccb7f93ee2eb5.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Jaipur, India",
+    "Details": "Trained professional with expertise in celebrity makeup."
+  },
+  {
+    "ID": "19",
+    "Name": "Rahul Chatterjee",
+    "Image": "https://i.pinimg.com/736x/cd/8f/fa/cd8ffa05f07a6d198faf9b67c70e528a.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Kozhikode, India",
+    "Details": "Specializes in bridal and traditional Indian makeup."
+  },
+  {
+    "ID": "20",
+    "Name": "Kritika Bose",
+    "Image": "https://i.pinimg.com/736x/60/03/fe/6003fecc184eb47c500050bc806ff1df.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Mysore, India",
+    "Details": "Known for elegant and natural bridal makeovers."
+  },
+  {
+    "ID": "21",
+    "Name": "Yash Agarwal",
+    "Image": "https://i.pinimg.com/736x/28/25/1a/28251aa6c78c56ba0a40832672bec2fc.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Patna, India",
+    "Details": "Trained professional with expertise in celebrity makeup."
+  },
+  {
+    "ID": "22",
+    "Name": "Priya Deshmukh",
+    "Image": "https://i.pinimg.com/736x/d8/71/e1/d871e1e36d000a5732817c4c318d2058.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Chennai, India",
+    "Details": "Renowned for contemporary and glamorous makeup styles."
+  },
+  {
+    "ID": "23",
+    "Name": "Vivek Trivedi",
+    "Image": "https://i.pinimg.com/736x/e0/41/7f/e0417f9eefab35040730726a0d30ca28.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Chandigarh, India",
+    "Details": "Known for elegant and natural bridal makeovers."
+  },
+  {
+    "ID": "24",
+    "Name": "Swati Saxena",
+    "Image": "https://i.pinimg.com/736x/54/b4/54/54b4540096b2c02dc2bbf7cc902ba698.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Srinagar, India",
+    "Details": "Offers airbrush makeup for a flawless finish."
+  },
+  {
+    "ID": "25",
+    "Name": "Gautam Pillai",
+    "Image": "https://i.pinimg.com/736x/5e/03/df/5e03dfafda1dadacb480202b25b6f523.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Agra, India",
+    "Details": "Provides destination wedding makeup services."
+  },
+  {
+    "ID": "26",
+    "Name": "Meera Menon",
+    "Image": "https://i.pinimg.com/736x/2f/4d/72/2f4d72abbcb2f7840be60eaf505b77fc.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Patna, India",
+    "Details": "Specializes in bridal and traditional Indian makeup."
+  },
+  {
+    "ID": "27",
+    "Name": "Rajesh Kulkarni",
+    "Image": "https://i.pinimg.com/736x/97/06/98/9706989dacaf50f8318739ceb753e3c1.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Aurangabad, India",
+    "Details": "Provides destination wedding makeup services."
+  },
+  {
+    "ID": "28",
+    "Name": "Nidhi Goel",
+    "Image": "https://i.pinimg.com/736x/a0/06/75/a00675ae27e22af52cdeed58fc27a40c.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Dehradun, India",
+    "Details": "Renowned for contemporary and glamorous makeup styles."
+  },
+  {
+    "ID": "29",
+    "Name": "Sandeep Rao",
+    "Image": "https://i.pinimg.com/736x/78/f3/a0/78f3a07ddc3c9347dccf18e934421537.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Aurangabad, India",
+    "Details": "Specializes in bridal and traditional Indian makeup."
+  },
+  {
+    "ID": "30",
+    "Name": "Deepika Sethi",
+    "Image": "https://i.pinimg.com/736x/12/8e/04/128e04b812d06eb57e33f54fe4f85e2a.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Hubli, India",
+    "Details": "Specializes in bridal and traditional Indian makeup."
+  },
+  {
+    "ID": "31",
+    "Name": "Kunal Bansal",
+    "Image": "https://i.pinimg.com/736x/d1/18/2e/d1182e6cb82e185419fcfc98366a2b1f.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Varanasi, India",
+    "Details": "Provides destination wedding makeup services."
+  },
+  {
+    "ID": "32",
+    "Name": "Ayesha Pathan",
+    "Image": "https://i.pinimg.com/736x/49/46/eb/4946ebead3e20c578431a18e2e04c839.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Allahabad, India",
+    "Details": "Specializes in bridal and traditional Indian makeup."
+  },
+  {
+    "ID": "33",
+    "Name": "Tarun Bhattacharya",
+    "Image": "https://i.pinimg.com/736x/0c/37/4b/0c374b3071525ca80c0bf9169c9439c3.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Bhopal, India",
+    "Details": "Provides destination wedding makeup services."
+  },
+  {
+    "ID": "34",
+    "Name": "Bhavna Kapoor",
+    "Image": "https://i.pinimg.com/736x/fa/c2/cc/fac2cc31965072d5afbb01f3e534a570.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Noida, India",
+    "Details": "Expert in HD makeup and party makeup looks."
+  },
+  {
+    "ID": "35",
+    "Name": "Rajat Nanda",
+    "Image": "https://i.pinimg.com/736x/c0/87/e7/c087e7784508c219dc279704b0b0b87f.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Dehradun, India",
+    "Details": "Expert in HD makeup and party makeup looks."
+  },
+  {
+    "ID": "36",
+    "Name": "Preeti Mishra",
+    "Image": "https://i.pinimg.com/736x/f4/5b/7f/f45b7f7f2a9435b89e781309691a9a91.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Ghaziabad, India",
+    "Details": "Award-winning makeup artist with years of experience."
+  },
+  {
+    "ID": "37",
+    "Name": "Aditya Chauhan",
+    "Image": "https://i.pinimg.com/736x/7d/10/bb/7d10bb4a108caaa13ac3de16febe7a0b.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Kanpur, India",
+    "Details": "Trained professional with expertise in celebrity makeup."
+  },
+  {
+    "ID": "38",
+    "Name": "Sonali Dutta",
+    "Image": "https://i.pinimg.com/736x/e0/ee/db/e0eedb7ccb21f475909ee87acba6f176.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Aurangabad, India",
+    "Details": "Known for elegant and natural bridal makeovers."
+  },
+  {
+    "ID": "39",
+    "Name": "Aniket Joshi",
+    "Image": "https://i.pinimg.com/736x/f8/04/f4/f804f44c0d6749c6534e02fbc734b0c7.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Ranchi, India",
+    "Details": "Renowned for contemporary and glamorous makeup styles."
+  },
+  {
+    "ID": "40",
+    "Name": "Tanisha Reddy",
+    "Image": "https://i.pinimg.com/736x/9a/42/a8/9a42a89d4ff9e29534a7db6fc9172473.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Dehradun, India",
+    "Details": "Provides destination wedding makeup services."
+  },
+  {
+    "ID": "41",
+    "Name": "Suresh Iyengar",
+    "Image": "https://i.pinimg.com/736x/80/cb/94/80cb941b02c646205221fe267778552e.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Srinagar, India",
+    "Details": "Expert in HD makeup and party makeup looks."
+  },
+  {
+    "ID": "42",
+    "Name": "Payal Saxena",
+    "Image": "https://i.pinimg.com/736x/f0/ee/80/f0ee80c3e2d75347368204d38ff0a7fa.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Kozhikode, India",
+    "Details": "Known for elegant and natural bridal makeovers."
+  },
+  {
+    "ID": "43",
+    "Name": "Varun Bajaj",
+    "Image": "https://i.pinimg.com/736x/78/f4/8e/78f48e2c51b775f436d0cd64ee23622e.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Kolkata, India",
+    "Details": "Trained professional with expertise in celebrity makeup."
+  },
+  {
+    "ID": "44",
+    "Name": "Shruti Sharma",
+    "Image": "https://i.pinimg.com/736x/43/b1/c3/43b1c35f45dae9f5b8a53be5c4d1ca27.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Faridabad, India",
+    "Details": "Specializes in bridal and traditional Indian makeup."
+  },
+  {
+    "ID": "45",
+    "Name": "Arvind Choudhary",
+    "Image": "https://i.pinimg.com/736x/73/8a/d5/738ad5ab81daf43c7eff8b0e06e4dc78.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Allahabad, India",
+    "Details": "Trained professional with expertise in celebrity makeup."
+  },
+  {
+    "ID": "46",
+    "Name": "Nikita Malhotra",
+    "Image": "https://i.pinimg.com/736x/75/09/43/75094334323ba165e4e5b81645152b69.jpg",
+    "Packages": "Bridal, Engagement, Reception Makeup",
+    "Location": "Nashik, India",
+    "Details": "Provides customized makeup services for all occasions."
+  },
+  {
+    "ID": "47",
+    "Name": "Siddharth Kapoor",
+    "Image": "https://i.pinimg.com/736x/90/ef/93/90ef9336a110b1a57b0d91b0cf786786.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Hubli, India",
+    "Details": "Uses high-end international makeup brands."
+  },
+  {
+    "ID": "48",
+    "Name": "Alisha Khan",
+    "Image": "https://i.pinimg.com/736x/84/7d/e3/847de384317b7926bd9184cde007a8a3.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Noida, India",
+    "Details": "Provides customized makeup services for all occasions."
+  },
+  {
+    "ID": "49",
+    "Name": "Rakesh Desai",
+    "Image": "https://i.pinimg.com/736x/34/97/82/34978288cafe0b8e66e8fbd2c21e0e56.jpg",
+    "Packages": "Airbrush, Matte, Glam",
+    "Location": "Ahmedabad, India",
+    "Details": "Specializes in bridal and traditional Indian makeup."
+  },
+  {
+    "ID": "50",
+    "Name": "Charu Ahuja",
+    "Image": "https://i.pinimg.com/736x/29/0c/97/290c978c3623a9b474ccd965282dabf3.jpg",
+    "Packages": "Bridal, Party, HD Makeup",
+    "Location": "Bangalore, India",
+    "Details": "Provides customized makeup services for all occasions."
+  }
+]

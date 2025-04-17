@@ -1,0 +1,502 @@
+[
+  {
+    "Id": "1",
+    "Name": "Ritika Mehendi Arts",
+    "Location": "Delhi",
+    "PackageName": "Bridal Mehendi",
+    "Price_INR": "7000",
+    "Package_Details": "Intricate bridal designs for both hands and feet, includes consultation",
+    "Image": "https://i.pinimg.com/736x/0c/64/d6/0c64d6e97ff770b8b441bf2004d73ade.jpg",
+    "Instagram": "https://instagram.com/ritikamehendi"
+  },
+  {
+    "Id": "2",
+    "Name": "Henna by Neha",
+    "Location": "Mumbai",
+    "PackageName": "Engagement Mehendi",
+    "Price_INR": "3500",
+    "Package_Details": "Floral and contemporary designs, hands only",
+    "Image": "https://i.pinimg.com/736x/4c/a4/31/4ca431e07163b7cd8513745f4151c4b1.jpg",
+    "Instagram": "https://instagram.com/hennabyneha"
+  },
+  {
+    "Id": "3",
+    "Name": "Ayesha Henna Studio",
+    "Location": "Bangalore",
+    "PackageName": "Party Mehendi",
+    "Price_INR": "2000",
+    "Package_Details": "Minimalistic designs, suitable for parties and festivals",
+    "Image": "https://i.pinimg.com/736x/5e/dc/54/5edc54556fe5a80bfaf6f48559280820.jpg",
+    "Instagram": "https://instagram.com/ayeshahenna"
+  },
+  {
+    "Id": "4",
+    "Name": "Mehendi Magic by Sana",
+    "Location": "Hyderabad",
+    "PackageName": "Sangeet Mehendi",
+    "Price_INR": "4500",
+    "Package_Details": "Traditional Indian motifs with Arabic blends",
+    "Image": "https://i.pinimg.com/736x/16/e7/e6/16e7e65b1f6d856cf9218e2d846c7067.jpg",
+    "Instagram": "https://instagram.com/mehendibysana"
+  },
+  {
+    "Id": "5",
+    "Name": "Heena Arts Jaipur",
+    "Location": "Jaipur",
+    "PackageName": "Bridal Mehendi Deluxe",
+    "Price_INR": "9000",
+    "Package_Details": "Full hands and feet, peacock and mandala designs included",
+    "Image": "https://i.pinimg.com/736x/1b/61/e4/1b61e482001fd5a28e68c558b2fd36f4.jpg",
+    "Instagram": "https://instagram.com/heenaartsjaipur"
+  },
+  {
+    "Id": "6",
+    "Name": "Zoya Mehendi",
+    "Location": "Ahmedabad",
+    "PackageName": "Festival Mehendi",
+    "Price_INR": "1500",
+    "Package_Details": "Quick and simple designs for Diwali, Eid, and other occasions",
+    "Image": "https://i.pinimg.com/736x/85/0b/89/850b89ffaefe4927f826614f9c2b33ff.jpg",
+    "Instagram": "https://instagram.com/zoyamehendi"
+  },
+  {
+    "Id": "7",
+    "Name": "Nikita's Henna",
+    "Location": "Chandigarh",
+    "PackageName": "Wedding Guest Mehendi",
+    "Price_INR": "2500",
+    "Package_Details": "Customized designs for guests, choice of patterns",
+    "Image": "https://i.pinimg.com/736x/5a/80/80/5a80805d08159a44859b0c22053e051b.jpg",
+    "Instagram": "https://instagram.com/nikitashenna"
+  },
+  {
+    "Id": "8",
+    "Name": "Henna Lounge",
+    "Location": "Kolkata",
+    "PackageName": "Arabic Mehendi",
+    "Price_INR": "3000",
+    "Package_Details": "Elegant and flowing Arabic-style patterns",
+    "Image": "https://i.pinimg.com/736x/b9/62/1f/b9621f96ef6ed8041395a64013dc29ca.jpg",
+    "Instagram": "https://instagram.com/hennalounge"
+  },
+  {
+    "Id": "9",
+    "Name": "Simran's Mehendi Art",
+    "Location": "Pune",
+    "PackageName": "Backhand Special",
+    "Price_INR": "1800",
+    "Package_Details": "Unique backhand floral and tribal patterns",
+    "Image": "https://i.pinimg.com/736x/ca/81/bf/ca81bfc09d835e8dbe65464b5800342b.jpg",
+    "Instagram": "https://instagram.com/simransmehendi"
+  },
+  {
+    "Id": "10",
+    "Name": "Tina's Henna Creations",
+    "Location": "Lucknow",
+    "PackageName": "Family Package",
+    "Price_INR": "10000",
+    "Package_Details": "Includes bride, mother, and sister mehendi application",
+    "Image": "https://i.pinimg.com/736x/8e/da/12/8eda12aa3bcbe20a01c8d61c7687de51.jpg",
+    "Instagram": "https://instagram.com/tinashennacreations"
+  },
+  {
+    "Id": "11",
+    "Name": "Ritika Mehendi Arts",
+    "Location": "Delhi",
+    "PackageName": "Bridal Mehendi",
+    "Price_INR": "7000",
+    "Package_Details": "Intricate bridal designs for both hands and feet, includes consultation",
+    "Image": "https://i.pinimg.com/736x/26/15/66/2615667c10e777e296a3334948878e7d.jpg",
+    "Instagram": "https://instagram.com/ritikamehendi"
+  },
+  {
+    "Id": "12",
+    "Name": "Henna by Neha",
+    "Location": "Mumbai",
+    "PackageName": "Engagement Mehendi",
+    "Price_INR": "3500",
+    "Package_Details": "Floral and contemporary designs, hands only",
+    "Image": "https://i.pinimg.com/736x/21/f3/7f/21f37fbc914c9639fa7b638580241699.jpg",
+    "Instagram": "https://instagram.com/hennabyneha"
+  },
+  {
+    "Id": "13",
+    "Name": "Ayesha Henna Studio",
+    "Location": "Bangalore",
+    "PackageName": "Party Mehendi",
+    "Price_INR": "2000",
+    "Package_Details": "Minimalistic designs, suitable for parties and festivals",
+    "Image": "https://i.pinimg.com/736x/fd/b9/8c/fdb98c91d5f8db1652fb6cf43a06c410.jpg",
+    "Instagram": "https://instagram.com/ayeshahenna"
+  },
+  {
+    "Id": "14",
+    "Name": "Mehendi Magic by Sana",
+    "Location": "Hyderabad",
+    "PackageName": "Sangeet Mehendi",
+    "Price_INR": "4500",
+    "Package_Details": "Traditional Indian motifs with Arabic blends",
+    "Image": "https://i.pinimg.com/736x/7d/90/a4/7d90a4a3d90dc5f9593f0590fe33b934.jpg",
+    "Instagram": "https://instagram.com/mehendibysana"
+  },
+  {
+    "Id": "15",
+    "Name": "Heena Arts Jaipur",
+    "Location": "Jaipur",
+    "PackageName": "Bridal Mehendi Deluxe",
+    "Price_INR": "9000",
+    "Package_Details": "Full hands and feet, peacock and mandala designs included",
+    "Image": "https://i.pinimg.com/736x/a8/ad/1a/a8ad1a1459825d6b895975b5122951bd.jpg",
+    "Instagram": "https://instagram.com/heenaartsjaipur"
+  },
+  {
+    "Id": "16",
+    "Name": "Zoya Mehendi",
+    "Location": "Ahmedabad",
+    "PackageName": "Festival Mehendi",
+    "Price_INR": "1500",
+    "Package_Details": "Quick and simple designs for Diwali, Eid, and other occasions",
+    "Image": "https://i.pinimg.com/736x/87/de/90/87de901e9b357422e908f4740ac48313.jpg",
+    "Instagram": "https://instagram.com/zoyamehendi"
+  },
+  {
+    "Id": "17",
+    "Name": "Nikita's Henna",
+    "Location": "Chandigarh",
+    "PackageName": "Wedding Guest Mehendi",
+    "Price_INR": "2500",
+    "Package_Details": "Customized designs for guests, choice of patterns",
+    "Image": "https://i.pinimg.com/736x/47/12/e3/4712e3859e8ed5ad8db3f1cb001157b1.jpg",
+    "Instagram": "https://instagram.com/nikitashenna"
+  },
+  {
+    "Id": "18",
+    "Name": "Henna Lounge",
+    "Location": "Kolkata",
+    "PackageName": "Arabic Mehendi",
+    "Price_INR": "3000",
+    "Package_Details": "Elegant and flowing Arabic-style patterns",
+    "Image": "https://i.pinimg.com/736x/08/89/5d/08895d9adb981374eec099bc8ea8c098.jpg",
+    "Instagram": "https://instagram.com/hennalounge"
+  },
+  {
+    "Id": "19",
+    "Name": "Simran's Mehendi Art",
+    "Location": "Pune",
+    "PackageName": "Backhand Special",
+    "Price_INR": "1800",
+    "Package_Details": "Unique backhand floral and tribal patterns",
+    "Image": "https://i.pinimg.com/736x/83/37/ed/8337edad7cb270f84fc824e9460b4fdd.jpg",
+    "Instagram": "https://instagram.com/simransmehendi"
+  },
+  {
+    "Id": "20",
+    "Name": "Tina's Henna Creations",
+    "Location": "Lucknow",
+    "PackageName": "Family Package",
+    "Price_INR": "10000",
+    "Package_Details": "Includes bride, mother, and sister mehendi application",
+    "Image": "https://i.pinimg.com/736x/7b/ba/b9/7bbab9dbcb4d01e544638f513c8ab00a.jpg",
+    "Instagram": "https://instagram.com/tinashennacreations"
+  },
+  {
+    "Id": "21",
+    "Name": "Ritika Mehendi Arts",
+    "Location": "Delhi",
+    "PackageName": "Bridal Mehendi",
+    "Price_INR": "7000",
+    "Package_Details": "Intricate bridal designs for both hands and feet, includes consultation",
+    "Image": "https://i.pinimg.com/736x/19/17/26/191726a864a18127ea01bc9837e9e9e1.jpg",
+    "Instagram": "https://instagram.com/ritikamehendi"
+  },
+  {
+    "Id": "22",
+    "Name": "Henna by Neha",
+    "Location": "Mumbai",
+    "PackageName": "Engagement Mehendi",
+    "Price_INR": "3500",
+    "Package_Details": "Floral and contemporary designs, hands only",
+    "Image": "https://i.pinimg.com/736x/40/2a/02/402a02324bb15d5cea5d1ec9fcab655c.jpg",
+    "Instagram": "https://instagram.com/hennabyneha"
+  },
+  {
+    "Id": "23",
+    "Name": "Ayesha Henna Studio",
+    "Location": "Bangalore",
+    "PackageName": "Party Mehendi",
+    "Price_INR": "2000",
+    "Package_Details": "Minimalistic designs, suitable for parties and festivals",
+    "Image": "https://i.pinimg.com/736x/a2/16/c8/a216c82dbdd8436b827302b24ff9ed1b.jpg",
+    "Instagram": "https://instagram.com/ayeshahenna"
+  },
+  {
+    "Id": "24",
+    "Name": "Mehendi Magic by Sana",
+    "Location": "Hyderabad",
+    "PackageName": "Sangeet Mehendi",
+    "Price_INR": "4500",
+    "Package_Details": "Traditional Indian motifs with Arabic blends",
+    "Image": "https://i.pinimg.com/736x/ea/d7/23/ead7234632b40282cb874c7fbb7e2be7.jpg",
+    "Instagram": "https://instagram.com/mehendibysana"
+  },
+  {
+    "Id": "25",
+    "Name": "Heena Arts Jaipur",
+    "Location": "Jaipur",
+    "PackageName": "Bridal Mehendi Deluxe",
+    "Price_INR": "9000",
+    "Package_Details": "Full hands and feet, peacock and mandala designs included",
+    "Image": "https://i.pinimg.com/736x/be/2c/33/be2c33f424cc37c1fea2f0865ded20ba.jpg",
+    "Instagram": "https://instagram.com/heenaartsjaipur"
+  },
+  {
+    "Id": "26",
+    "Name": "Zoya Mehendi",
+    "Location": "Ahmedabad",
+    "PackageName": "Festival Mehendi",
+    "Price_INR": "1500",
+    "Package_Details": "Quick and simple designs for Diwali, Eid, and other occasions",
+    "Image": "https://i.pinimg.com/736x/52/3c/ad/523cad86c9619f6d1f0592c5248e5b25.jpg",
+    "Instagram": "https://instagram.com/zoyamehendi"
+  },
+  {
+    "Id": "27",
+    "Name": "Nikita's Henna",
+    "Location": "Chandigarh",
+    "PackageName": "Wedding Guest Mehendi",
+    "Price_INR": "2500",
+    "Package_Details": "Customized designs for guests, choice of patterns",
+    "Image": "https://i.pinimg.com/736x/30/5c/0b/305c0b60fd58c183d82c50e16f0b0f70.jpg",
+    "Instagram": "https://instagram.com/nikitashenna"
+  },
+  {
+    "Id": "28",
+    "Name": "Henna Lounge",
+    "Location": "Kolkata",
+    "PackageName": "Arabic Mehendi",
+    "Price_INR": "3000",
+    "Package_Details": "Elegant and flowing Arabic-style patterns",
+    "Image": "https://i.pinimg.com/736x/9d/5d/90/9d5d9061784c15e436a9433b4ac255fe.jpg",
+    "Instagram": "https://instagram.com/hennalounge"
+  },
+  {
+    "Id": "29",
+    "Name": "Simran's Mehendi Art",
+    "Location": "Pune",
+    "PackageName": "Backhand Special",
+    "Price_INR": "1800",
+    "Package_Details": "Unique backhand floral and tribal patterns",
+    "Image": "https://i.pinimg.com/736x/b0/fb/d9/b0fbd9d6ee45a204fbb27bc224e62922.jpg",
+    "Instagram": "https://instagram.com/simransmehendi"
+  },
+  {
+    "Id": "30",
+    "Name": "Tina's Henna Creations",
+    "Location": "Lucknow",
+    "PackageName": "Family Package",
+    "Price_INR": "10000",
+    "Package_Details": "Includes bride, mother, and sister mehendi application",
+    "Image": "https://i.pinimg.com/736x/25/a6/43/25a643929023c440414b4e038bad3356.jpg",
+    "Instagram": "https://instagram.com/tinashennacreations"
+  },
+  {
+    "Id": "31",
+    "Name": "Ritika Mehendi Arts",
+    "Location": "Delhi",
+    "PackageName": "Bridal Mehendi",
+    "Price_INR": "7000",
+    "Package_Details": "Intricate bridal designs for both hands and feet, includes consultation",
+    "Image": "https://i.pinimg.com/736x/dd/b6/94/ddb694c59d6d4257fb97659c76248983.jpg",
+    "Instagram": "https://instagram.com/ritikamehendi"
+  },
+  {
+    "Id": "32",
+    "Name": "Henna by Neha",
+    "Location": "Mumbai",
+    "PackageName": "Engagement Mehendi",
+    "Price_INR": "3500",
+    "Package_Details": "Floral and contemporary designs, hands only",
+    "Image": "https://i.pinimg.com/736x/d8/a8/4b/d8a84b5cdccb55686ca65165d96c4e0c.jpg",
+    "Instagram": "https://instagram.com/hennabyneha"
+  },
+  {
+    "Id": "33",
+    "Name": "Ayesha Henna Studio",
+    "Location": "Bangalore",
+    "PackageName": "Party Mehendi",
+    "Price_INR": "2000",
+    "Package_Details": "Minimalistic designs, suitable for parties and festivals",
+    "Image": "https://i.pinimg.com/736x/53/c2/85/53c285e79732cd2bdd5279256f32a371.jpg",
+    "Instagram": "https://instagram.com/ayeshahenna"
+  },
+  {
+    "Id": "34",
+    "Name": "Mehendi Magic by Sana",
+    "Location": "Hyderabad",
+    "PackageName": "Sangeet Mehendi",
+    "Price_INR": "4500",
+    "Package_Details": "Traditional Indian motifs with Arabic blends",
+    "Image": "https://i.pinimg.com/736x/0b/43/7f/0b437f7e2da6dad844b30275787d5db7.jpg",
+    "Instagram": "https://instagram.com/mehendibysana"
+  },
+  {
+    "Id": "35",
+    "Name": "Heena Arts Jaipur",
+    "Location": "Jaipur",
+    "PackageName": "Bridal Mehendi Deluxe",
+    "Price_INR": "9000",
+    "Package_Details": "Full hands and feet, peacock and mandala designs included",
+    "Image": "https://i.pinimg.com/736x/b3/1e/30/b31e302682e77e212dda700554f3a168.jpg",
+    "Instagram": "https://instagram.com/heenaartsjaipur"
+  },
+  {
+    "Id": "36",
+    "Name": "Zoya Mehendi",
+    "Location": "Ahmedabad",
+    "PackageName": "Festival Mehendi",
+    "Price_INR": "1500",
+    "Package_Details": "Quick and simple designs for Diwali, Eid, and other occasions",
+    "Image": "https://i.pinimg.com/736x/f8/b9/0e/f8b90edfb5712d209df67562f213835d.jpg",
+    "Instagram": "https://instagram.com/zoyamehendi"
+  },
+  {
+    "Id": "37",
+    "Name": "Nikita's Henna",
+    "Location": "Chandigarh",
+    "PackageName": "Wedding Guest Mehendi",
+    "Price_INR": "2500",
+    "Package_Details": "Customized designs for guests, choice of patterns",
+    "Image": "https://i.pinimg.com/736x/b1/98/b4/b198b4d32d1382be61e50e63d6c34d73.jpg",
+    "Instagram": "https://instagram.com/nikitashenna"
+  },
+  {
+    "Id": "38",
+    "Name": "Henna Lounge",
+    "Location": "Kolkata",
+    "PackageName": "Arabic Mehendi",
+    "Price_INR": "3000",
+    "Package_Details": "Elegant and flowing Arabic-style patterns",
+    "Image": "https://i.pinimg.com/736x/77/e0/80/77e080fb159d5bc13e1f1d0b6fd48aee.jpg",
+    "Instagram": "https://instagram.com/hennalounge"
+  },
+  {
+    "Id": "39",
+    "Name": "Simran's Mehendi Art",
+    "Location": "Pune",
+    "PackageName": "Backhand Special",
+    "Price_INR": "1800",
+    "Package_Details": "Unique backhand floral and tribal patterns",
+    "Image": "https://i.pinimg.com/736x/4e/60/9c/4e609c819a734ca6cdb3922c8904cc92.jpg",
+    "Instagram": "https://instagram.com/simransmehendi"
+  },
+  {
+    "Id": "40",
+    "Name": "Tina's Henna Creations",
+    "Location": "Lucknow",
+    "PackageName": "Family Package",
+    "Price_INR": "10000",
+    "Package_Details": "Includes bride, mother, and sister mehendi application",
+    "Image": "https://i.pinimg.com/736x/7a/ca/74/7aca74a5fec9d56819ae07f49ecb6c56.jpg",
+    "Instagram": "https://instagram.com/tinashennacreations"
+  },
+  {
+    "Id": "41",
+    "Name": "Ritika Mehendi Arts",
+    "Location": "Delhi",
+    "PackageName": "Bridal Mehendi",
+    "Price_INR": "7000",
+    "Package_Details": "Intricate bridal designs for both hands and feet, includes consultation",
+    "Image": "https://i.pinimg.com/736x/02/03/3b/02033b34d6296326d86b28578de95e22.jpg",
+    "Instagram": "https://instagram.com/ritikamehendi"
+  },
+  {
+    "Id": "42",
+    "Name": "Henna by Neha",
+    "Location": "Mumbai",
+    "PackageName": "Engagement Mehendi",
+    "Price_INR": "3500",
+    "Package_Details": "Floral and contemporary designs, hands only",
+    "Image": "https://i.pinimg.com/736x/ac/b0/b7/acb0b7b67fd73924009271a3eec80ecd.jpg",
+    "Instagram": "https://instagram.com/hennabyneha"
+  },
+  {
+    "Id": "43",
+    "Name": "Ayesha Henna Studio",
+    "Location": "Bangalore",
+    "PackageName": "Party Mehendi",
+    "Price_INR": "2000",
+    "Package_Details": "Minimalistic designs, suitable for parties and festivals",
+    "Image": "https://i.pinimg.com/736x/d5/54/5a/d5545a2a78788d7125f78c5a81b303f0.jpg",
+    "Instagram": "https://instagram.com/ayeshahenna"
+  },
+  {
+    "Id": "44",
+    "Name": "Mehendi Magic by Sana",
+    "Location": "Hyderabad",
+    "PackageName": "Sangeet Mehendi",
+    "Price_INR": "4500",
+    "Package_Details": "Traditional Indian motifs with Arabic blends",
+    "Image": "https://i.pinimg.com/736x/07/f8/23/07f8238f86612c4dd3177770ce35b5c1.jpg",
+    "Instagram": "https://instagram.com/mehendibysana"
+  },
+  {
+    "Id": "45",
+    "Name": "Heena Arts Jaipur",
+    "Location": "Jaipur",
+    "PackageName": "Bridal Mehendi Deluxe",
+    "Price_INR": "9000",
+    "Package_Details": "Full hands and feet, peacock and mandala designs included",
+    "Image": "https://i.pinimg.com/736x/61/c0/73/61c0730e126627db364682d81a5717a5.jpg",
+    "Instagram": "https://instagram.com/heenaartsjaipur"
+  },
+  {
+    "Id": "46",
+    "Name": "Zoya Mehendi",
+    "Location": "Ahmedabad",
+    "PackageName": "Festival Mehendi",
+    "Price_INR": "1500",
+    "Package_Details": "Quick and simple designs for Diwali, Eid, and other occasions",
+    "Image": "https://i.pinimg.com/736x/c2/94/3a/c2943a4fe846dd24c5d8676f9a759bfc.jpg",
+    "Instagram": "https://instagram.com/zoyamehendi"
+  },
+  {
+    "Id": "47",
+    "Name": "Nikita's Henna",
+    "Location": "Chandigarh",
+    "PackageName": "Wedding Guest Mehendi",
+    "Price_INR": "2500",
+    "Package_Details": "Customized designs for guests, choice of patterns",
+    "Image": "https://i.pinimg.com/736x/a0/3c/39/a03c3985367643a3d2904f7717b2acb5.jpg",
+    "Instagram": "https://instagram.com/nikitashenna"
+  },
+  {
+    "Id": "48",
+    "Name": "Henna Lounge",
+    "Location": "Kolkata",
+    "PackageName": "Arabic Mehendi",
+    "Price_INR": "3000",
+    "Package_Details": "Elegant and flowing Arabic-style patterns",
+    "Image": "https://i.pinimg.com/736x/b1/ad/27/b1ad270a7833d2efde8604ba19feb045.jpg",
+    "Instagram": "https://instagram.com/hennalounge"
+  },
+  {
+    "Id": "49",
+    "Name": "Simran's Mehendi Art",
+    "Location": "Pune",
+    "PackageName": "Backhand Special",
+    "Price_INR": "1800",
+    "Package_Details": "Unique backhand floral and tribal patterns",
+    "Image": "https://i.pinimg.com/736x/26/d9/41/26d941affb27f2a14899b781b1738642.jpg",
+    "Instagram": "https://instagram.com/simransmehendi"
+  },
+  {
+    "Id": "50",
+    "Name": "Tina's Henna Creations",
+    "Location": "Lucknow",
+    "PackageName": "Family Package",
+    "Price_INR": "10000",
+    "Package_Details": "Includes bride, mother, and sister mehendi application",
+    "Image": "https://i.pinimg.com/736x/22/cf/89/22cf8954ca552877faa3e52ff37a7744.jpg",
+    "Instagram": "https://instagram.com/tinashennacreations"
+  }
+]
